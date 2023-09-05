@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\bin\Debug\net6.0\ATMconsoleProject.exe
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\bin\Debug\net6.0\ATMconsoleProject.deps.json
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\bin\Debug\net6.0\ATMconsoleProject.runtimeconfig.json
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\bin\Debug\net6.0\ATMconsoleProject.dll
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\bin\Debug\net6.0\ATMconsoleProject.pdb
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.dll
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\refint\ATMconsoleProject.dll
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.pdb
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ATMconsoleProject.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ATMconsoleProject\ATMconsoleProject\obj\Debug\net6.0\ref\ATMconsoleProject.dll
